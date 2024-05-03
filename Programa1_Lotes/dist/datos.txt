@@ -1,0 +1,210 @@
+***** Lote 0 *****
+1. Miguel
+2 * 2
+TME: 7
+
+2. Laura
+2 * 3
+TME: 6
+
+3. Miguel
+7 * 7
+TME: 7
+
+4. Juan
+9 + 3
+TME: 12
+
+5. Juan
+8 * 5
+TME: 11
+
+***** Lote 1 *****
+6. José
+2 * 5
+TME: 7
+
+7. Pedro
+3 / 2
+TME: 9
+
+8. Juan
+4 * 5
+TME: 8
+
+9. José
+2 / 1
+TME: 7
+
+10. María
+1 + 2
+TME: 7
+
+***** Lote 2 *****
+11. Juan
+8 * 2
+TME: 12
+
+12. Pedro
+7 * 3
+TME: 10
+
+13. Pedro
+4 + 8
+TME: 7
+
+14. José
+6 + 6
+TME: 12
+
+15. Ana
+8 + 2
+TME: 7
+
+***** Lote 3 *****
+16. Carlos
+9 * 9
+TME: 11
+
+17. Ana
+3 + 6
+TME: 6
+
+18. Luis
+9 + 8
+TME: 10
+
+19. Pedro
+3 + 8
+TME: 11
+
+20. Luis
+4 - 7
+TME: 12
+
+***** Lote 4 *****
+21. Carlos
+2 * 5
+TME: 10
+
+22. María
+3 + 1
+TME: 9
+
+23. María
+2 - 2
+TME: 9
+
+24. Carolina
+1 / 6
+TME: 11
+
+25. Laura
+4 - 7
+TME: 6
+
+***** Lote 5 *****
+26. Carolina
+4 / 8
+TME: 10
+
+27. Pedro
+3 + 3
+TME: 11
+
+28. Miguel
+3 * 9
+TME: 8
+
+29. Juan
+1 - 5
+TME: 9
+
+30. Juan
+3 + 3
+TME: 12
+
+***** Lote 6 *****
+31. Juan
+3 + 5
+TME: 9
+
+32. Ana
+4 / 1
+TME: 12
+
+33. Laura
+6 + 9
+TME: 8
+
+34. María
+4 / 8
+TME: 12
+
+35. Carolina
+8 + 3
+TME: 12
+
+***** Lote 7 *****
+36. Laura
+8 * 7
+TME: 9
+
+37. Luis
+2 - 2
+TME: 11
+
+38. Miguel
+3 - 9
+TME: 12
+
+39. Pedro
+9 / 7
+TME: 8
+
+40. Laura
+2 + 7
+TME: 12
+
+***** Lote 8 *****
+41. Luis
+3 - 6
+TME: 10
+
+42. Carolina
+8 / 9
+TME: 12
+
+43. Carolina
+2 + 4
+TME: 7
+
+44. Carlos
+6 + 2
+TME: 8
+
+45. Miguel
+4 * 4
+TME: 8
+
+***** Lote 9 *****
+46. Miguel
+3 / 2
+TME: 11
+
+47. Luis
+1 + 8
+TME: 9
+
+48. Carolina
+5 * 9
+TME: 8
+
+49. Pedro
+8 / 5
+TME: 10
+
+50. Ana
+5 + 1
+TME: 12
+
